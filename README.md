@@ -93,7 +93,6 @@ source ~/.scripts/fzf-script.sh
 
 ```.bash
     #HIGH FREQUENCY DIRECTORIES : CHANGE THESE
-    If your high frequency directories are inside HOME directory : 
     HIGH_FREQ_DIR0="$HOME/edit-path-to-high-freq-directory0"
     HIGH_FREQ_DIR1="$HOME/edit-path-to-high-freq-directory1"
     HIGH_FREQ_DIR2="$HOME/edit-path-to-high-freq-directory2"
