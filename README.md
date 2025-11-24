@@ -1,10 +1,10 @@
 # Superflow
-Navigate to any directory from anywhere and Tmuxify every directory you navigate to.
+No brainer navigation to any directory from anywhere in an instant, and Tmuxify every directory you navigate to.
 
 ## Why ?
-Whenever I open my system, I need to open a tmux session for any one of my highly frequent project directories (1 to 4 of them) from the bash shell using one button press. And whenever I need to go to a random project directory, I needed that project directory to be opened up in a tmux session as fast as possible. This was one trigger.
+Whenever I open my system, I need to open a tmux session for any one of my highly frequent project directories (1 to 4 of them) from the bash shell using one button press. And whenever I need to go to a random project directory, I need that project directory to be opened up in a tmux session as fast as possible. This was one trigger.
 
-2nd. Whenever I am inside Nvim (in a project directory) in a tmux session, if i needed to jump to another directory in a new tmux window, I had to create a new window, then cd into the project directory. I wanted this in just one button press from inside Nvim.
+2nd. Whenever I am inside Nvim (in a project directory) in a tmux session, if i needed to jump to another directory in a new tmux window, I had to create a new window, then cd into that project directory. I wanted this in just one button press from inside Nvim.
 
 thus.. `superflow` :))
 
