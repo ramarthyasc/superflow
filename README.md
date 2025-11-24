@@ -76,7 +76,6 @@ To goto a random project directory :-
 #### 4. Put these instructions in ~/.tmux.conf :
 ```.tmux
 set-option -g prefix 'C-@'
-# High frequency directories
 bind-key h run-shell "bash ~/.scripts/tmux-script.sh 'h'"
 bind-key j run-shell "bash ~/.scripts/tmux-script.sh 'j'"
 bind-key k run-shell "bash ~/.scripts/tmux-script.sh 'k'"
