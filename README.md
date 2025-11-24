@@ -1,6 +1,7 @@
 # Superflow
 No brainer navigation to any directory from anywhere in an instant, and Tmuxify every directory you navigate to.
 
+
 ## Why ?
 Whenever I open my system, I need to open a tmux session for any one of my highly frequent project directories (1 to 4 of them) from the bash shell using one button press. And whenever I need to go to a random project directory, I need that project directory to be opened up in a tmux session as fast as possible. This was one trigger.
 
@@ -35,12 +36,16 @@ To goto high frequent project directories (Ranked according to priority):-
     Ctrl-Space + k = Open high frequent (rank 3)  project directory in tmux session
     Ctrl-Space + l = Open high frequent (rank 4)  project directory in tmux session
 ```
+![super1](https://github.com/user-attachments/assets/3090ac6a-3d21-4dc5-8676-26c72e6b1f29)
+
 **2. While outside tmux (ie; You have just started the system, and you are in a shell not spawned by tmux) :**
     
 To goto a random project directory :-
 ```
     Ctrl-f = Shows up fzf (fuzzy finder); search the project directory - opens the directory in a tmux session
 ```
+![super2](https://github.com/user-attachments/assets/57224f4b-4c4c-4079-a53a-35f2befbabb6)
+
 **3. While inside nvim in tmux Or inside a tmux session/tmux environment** (Well, you shouldn't open nvim outside a tmux environment if you are a developer (& you won't need to.. if you are using 'superflow':)) ) **:** 
     
 To goto a random project directory :-
