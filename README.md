@@ -36,6 +36,7 @@ To goto high frequent project directories (Ranked according to priority):-
     Ctrl-Space + k = Open high frequent (rank 3)  project directory in tmux session
     Ctrl-Space + l = Open high frequent (rank 4)  project directory in tmux session
 ```
+Video Demo 1 :
 ![super1](https://github.com/user-attachments/assets/3090ac6a-3d21-4dc5-8676-26c72e6b1f29)
 
 **2. While outside tmux (ie; You have just started the system, and you are in a shell not spawned by tmux) :**
@@ -44,6 +45,7 @@ To goto a random project directory :-
 ```
     Ctrl-f = Shows up fzf (fuzzy finder); search the project directory - opens the directory in a tmux session
 ```
+Video Demo 2 : 
 ![super2](https://github.com/user-attachments/assets/57224f4b-4c4c-4079-a53a-35f2befbabb6)
 
 **3. While inside nvim in tmux Or inside a tmux session/tmux environment** (Well, you shouldn't open nvim outside a tmux environment if you are a developer (& you won't need to.. if you are using 'superflow':)) ) **:** 
