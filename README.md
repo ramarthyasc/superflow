@@ -9,6 +9,15 @@ Whenever I open my system, I need to open a tmux session for any one of my highl
 
 thus.. `superflow` :))
 
+## 🤖 Technologies :
+- Bash
+- FZF (Fuzzy finder)
+- Tmux
+- Nvim
+
+## Process of development
+Connected Fzf, Tmux and Nvim using Bash scripts so that anyone can just copy-paste these scripts and implement 'superflow' in their linux/wsl machine quickly.
+
 ## What is Superflow ? 
 
 An fzf-shell-tmux-nvim integration for programmers who need 'superflow' (read: 'instant') navigations between directories & for tmuxifying every directory you navigate to.
