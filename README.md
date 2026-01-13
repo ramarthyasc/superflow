@@ -1,6 +1,6 @@
 # Superflow
 No brainer navigation to any directory from anywhere in an instant, and Tmuxify every directory you navigate to.
-
+'Superflow' your workflow ..
 
 ## Why ?
 Whenever I open my system, I need to open a tmux session for any one of my highly frequent project directories (1 to 4 of them) from the bash shell using one button press. And whenever I need to go to a random project directory, I need that project directory to be opened up in a tmux session as fast as possible. This was one trigger.
@@ -15,8 +15,8 @@ thus.. `superflow` :))
 - Tmux
 - Nvim
 
-## Process of development
-Connected Fzf, Tmux and Nvim using Bash scripts so that anyone can just copy-paste these scripts and implement 'superflow' in their linux/wsl machine quickly.
+## Process of development :
+Connected Fzf, Tmux and Nvim using Bash scripts so that anyone can just copy-paste these scripts and implement 'superflow' workflow in their linux/wsl machine quickly.
 
 ## What is Superflow ? 
 
