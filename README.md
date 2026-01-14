@@ -15,8 +15,13 @@ thus.. `superflow` :))
 - Tmux
 - Nvim
 
-## Process of development :
-Connected Fzf, Tmux and Nvim using Bash scripts so that anyone can just copy-paste these scripts and implement 'superflow' workflow in their linux/wsl machine quickly.
+## 🔷 Process of development & learnings :
+- Connected Fzf, Tmux and Nvim using Bash scripts so that anyone can just copy-paste these scripts and implement 'superflow' workflow in their linux/wsl machine quickly.
+    - **Learnings** :
+      1. Bash scripting
+      2. Creating a linux CLI tool
+      3. Tmux config, Nvim config
+      4. Bash Child processes, Forking, Environment variables inheritance
 
 ## What is Superflow ? 
 
@@ -64,7 +69,7 @@ To goto a random project directory :-
     Ctrl-f + s = Shows up fzf (fuzzy finder); search the project directory - opens up the directory in a tmux session
     Ctrl-f + f = Shows up fzf (fuzzy finder); search the project directory - opens up the directory in a tmux window in the same session
 ```
-## SETUP / INSTALLATION
+## ⚙️ SETUP / INSTALLATION
 
 > TIP : _If you are using Qwerty keyboard, remap CTRL functionality to 'CAPSLOCK' key for better hand comfort & speed. You don't need CAPSLOCK.. well... do you ?_
 
@@ -118,5 +123,8 @@ _HIGH_FREQ_DIR0="$HOME/edit-path-to-high-freq-directory0" <br>_  _is changed to 
 <br><br>
 #### That's it ! Enjoy `Superflow`!!
 
-## Contributing
+## 🔨 How can this be Improved ?
+    - Until now, i don't have any problems with it in my workflow. Tell me if there is any..
+
+## 🤝 Contributing
 All contributions are welcome! Just open a pull request.
