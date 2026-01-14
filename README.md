@@ -51,7 +51,7 @@ To goto high frequent project directories (Ranked according to priority):-
     Ctrl-Space + k = Open high frequent (rank 3)  project directory in tmux session
     Ctrl-Space + l = Open high frequent (rank 4)  project directory in tmux session
 ```
-Video Demo 1 (Audio on):
+Video Demo 1 (Audio On):
 
 
 https://github.com/user-attachments/assets/910e3b71-a004-4a8b-8c6e-d41674d92cea
@@ -64,7 +64,7 @@ To goto a random project directory :-
 ```
     Ctrl-f = Shows up fzf (fuzzy finder); search the project directory - opens the directory in a tmux session
 ```
-Video Demo 2 (Audio on): 
+Video Demo 2 (Audio On): 
 
 
 https://github.com/user-attachments/assets/b5139ff9-1dc7-4261-bdfe-296333e06adf
