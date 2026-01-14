@@ -2,6 +2,7 @@
 No brainer navigation to any directory from anywhere in an instant, and Tmuxify every directory you navigate to.
 ie; Make your dev workflow superfast..
 
+(Preview videos in the midsection)
 ## Why ?
 Whenever I open my system, I need to open a tmux session for any one of my highly frequent project directories (1 to 4 of them) from the bash shell using one button press. And whenever I need to go to a random project directory, I need that project directory to be opened up in a tmux session as fast as possible. This was one trigger.
 
@@ -50,7 +51,7 @@ To goto high frequent project directories (Ranked according to priority):-
     Ctrl-Space + k = Open high frequent (rank 3)  project directory in tmux session
     Ctrl-Space + l = Open high frequent (rank 4)  project directory in tmux session
 ```
-Video Demo 1 :
+Video Demo 1 (Audio on):
 
 
 https://github.com/user-attachments/assets/910e3b71-a004-4a8b-8c6e-d41674d92cea
@@ -63,7 +64,7 @@ To goto a random project directory :-
 ```
     Ctrl-f = Shows up fzf (fuzzy finder); search the project directory - opens the directory in a tmux session
 ```
-Video Demo 2 : 
+Video Demo 2 (Audio on): 
 
 
 https://github.com/user-attachments/assets/b5139ff9-1dc7-4261-bdfe-296333e06adf
