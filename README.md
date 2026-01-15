@@ -1,5 +1,5 @@
 # 🌊 Superflow
-No brainer navigation to any directory from anywhere in an instant, and Tmuxify every directory you navigate to.
+No brainer navigation to any file/directory from anywhere in an instant, and Tmuxify every directory you navigate to.
 ie; Make your dev workflow superfast..
 
 (Preview videos in the midsection)
