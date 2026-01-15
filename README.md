@@ -20,8 +20,8 @@ thus.. `superflow` :))
 - Connected Fzf, Tmux and Nvim using Bash scripts so that anyone can just copy-paste these scripts and implement 'superflow' workflow in their linux/wsl machine quickly.
 - **Learnings** :
     1. Bash scripting
-    2. Creating a linux CLI tool
-    3. Tmux config, Nvim config
+    2. Creating a user friendly linux CLI tool
+    3. Cross process communications
     4. Bash Child processes, Forking, Environment variables inheritance
 
 ## What is Superflow ? 
