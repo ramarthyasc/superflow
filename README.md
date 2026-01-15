@@ -1,5 +1,5 @@
 # 🌊 Superflow
-Effortless navigation to any file/directory from anywhere in an instant, and Tmuxify every directory you navigate to.
+Effortless navigation to any buffer/directory from anywhere in an instant, and Tmuxify every directory you navigate to.
 ie; Make your dev workflow superfast..
 
 (Preview videos in the midsection)
