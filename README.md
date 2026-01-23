@@ -4,9 +4,9 @@ ie; Make your dev workflow superfast..
 
 (Preview videos in the midsection)
 ## Why ?
-Whenever I open my system, I need to open a tmux session for any one of my highly frequent project directories (1 to 4 of them) from the bash shell with only one button press. And whenever I need to go to a random project directory, I need that project directory to be opened up in a tmux session as fast as possible. This was one trigger.
+Whenever I start my system, I want to open a tmux session for one of my frequently used project directories (usually 1–4 of them) with a single key press from the bash shell. And whenever I needed to jump to a random project directory, I wanted it to open in a tmux session as fast as possible. This was the main trigger.
 
-2nd. Whenever I am inside Nvim (in a project directory) in a tmux session, if i needed to jump to another directory in a new tmux window, I had to create a new window, then cd into that project directory. I wanted this too in just one button press from inside Nvim.
+Second, whenever I’m inside Neovim (in a project directory) within a tmux session and I need to jump to another project directory in a new tmux window, I currently have to create a new window and then cd into that directory.I wanted this too to happen with just a single key press from inside Neovim.
 
 thus.. `superflow` :))
 
